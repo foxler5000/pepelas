@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-370" y="-150" sprite="chicos" antialiasing="false" camx="-230" camy="150" icon="face" color="#FF1000">
+	<anim name="idle" anim="sing idle" x="0" y="0" fps="24" loop="true"/>
+</character>

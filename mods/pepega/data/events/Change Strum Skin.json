@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "New Skin",
+            "type": "String",
+            "defaultValue": "default"
+        },
+        {
+            "name": "Pixel?",
+            "type": "Bool",
+            "defaultValue": "false"
+        },
+	{
+	    "name": "Player?",
+	    "type": "Bool",
+	    "defaultValue": "false"
+	}
+    ]
+}
