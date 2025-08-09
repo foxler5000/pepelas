@@ -1,7 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage zoom="1.2" name="stage" folder="stages/fondopepe/" startCamPosY="600" startCamPosX="1000">
-	<sprite name="stageFront"       x="0" y="0"    sprite="casa"      scroll="1" />
-	<girlfriend />
-	<dad />
-	<boyfriend />
-</stage>
