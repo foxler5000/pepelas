@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"normal"
+	],
+	"color": "#FF0000",
+	"name": "Winter Arc",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Winter Arc",
+	"beatsPerMeasure": 4,
+	"bpm": 145
+}
