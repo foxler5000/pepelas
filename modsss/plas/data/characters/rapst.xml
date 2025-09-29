@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="-48" y="-100" sprite="rap" antialiasing="false" camx="-230" camy="150" icon="ratont" color="#FF1000">
-	<anim name="idle" anim="sing idle" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="sing left" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="sing right" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singUP" anim="sing up" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singDOWN" anim="sing down" x="0" y="0" fps="24" loop="false"/>
-</character>
