@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-800" y="-100" sprite="bfpep" antialiasing="false" flipX="true" camx="200" camy="150" isPlayer="true" icon="bf" color="#0086FF">
+	<anim name="idle" anim="sing idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="sing left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="sing right" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="sing up" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="sing down" x="0" y="0" fps="24" loop="false"/>
+</character>
