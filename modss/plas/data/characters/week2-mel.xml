@@ -1,9 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="images/characters/pelas/week2-mel" antialiasing="false" icon="week2-mel">
-	<anim name="singDOWN" anim="down" x="-158" y="50"/>
-	<anim name="singRIGHT" anim="right" x="-158" y="50"/>
-	<anim name="singLEFT" anim="left" x="-158" y="50"/>
-	<anim name="singUP" anim="up" x="-158" y="50"/>
-	<anim name="danceLeft" anim="danceleft" x="-158" y="50"/>
-	<anim name="danceRight" anim="danceright" x="-158" y="50"/>
-</character>
