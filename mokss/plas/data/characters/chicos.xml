@@ -1,4 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="-370" y="-150" antialiasing="false" camx="-150" camy="230" icon="face" color="#FF1000">
-	<anim name="idle" anim="sing idle" loop="true"/>
-</character>
