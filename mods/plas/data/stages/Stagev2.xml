@@ -1,7 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="Stages/stagev2/" name="Stagev2">
-	<sprite type="none" sprite="stage" name="fondo"/>
-	<girlfriend/>
-	<dad/>
-	<boyfriend/>
-</stage>
