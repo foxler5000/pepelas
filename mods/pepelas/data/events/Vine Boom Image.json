@@ -1,0 +1,24 @@
+{
+	"params": [
+		{
+			"name": "Image Path.",
+			"type": "String",
+			"defaultValue": "memes/"
+		},
+		{
+			"name": "Fade Duration.",
+			"type": "Float(0, 999999, 0.0001, 10)",
+			"defaultValue": 0.5
+		},
+		{
+			"name": "Fade Delay.",
+			"type": "Float(0, 999999, 0.0001, 10)",
+			"defaultValue": 0
+		},
+		{
+			"name": "Play Vine Boom Sound?",
+			"type": "Bool",
+			"defaultValue": false
+		}
+	]
+}
