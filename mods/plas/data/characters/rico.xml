@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="-100" y="-100" camx="-100" camy="140" icon="rico">
-	<anim name="idle" anim="sing idle"/>
-	<anim name="singDOWN" anim="sing down"/>
-	<anim name="singRIGHT" anim="sing right"/>
-	<anim name="singLEFT" anim="sing left"/>
-	<anim name="singUP" anim="sing up"/>
-</character>
