@@ -1,0 +1,11 @@
+{
+  "name": "Change Stage",
+  "description": "Changes the visual stage during the song.",
+  "parameters": [
+    {
+      "name": "newStage",
+      "type": "string",
+      "description": "The name of the stage to switch to (e.g., 'school', 'philly')."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FF0000",
+	"opponentModeAllowed": true,
+	"icon": "glitchical",
+	"difficulties": [
+		"Normal"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Fatality",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}
