@@ -4,8 +4,7 @@
 	"difficulties": [
 		"normal"
 	],
-	"color": -16764673,
-	"name": "Boing",
+	"color": "#0030FF",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "Boing",

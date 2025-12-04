@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character antialiasing="false" flipX="true" isPlayer="true">
+<character antialiasing="false" isPlayer="true" icon="week2-bg">
 	<anim name="idle" anim="idle" x="-161" y="127"/>
 	<anim name="intro" anim="intro" x="-161" y="127"/>
 </character>

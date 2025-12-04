@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character antialiasing="false">
-	<anim name="idle" anim="idle" x="-158" y="109"/>
-	<anim name="singDOWN" anim="down" x="-158" y="109"/>
-	<anim name="singRIGHT" anim="right" x="-158" y="109"/>
-	<anim name="singLEFT" anim="left" x="-158" y="109"/>
-	<anim name="singUP" anim="up" x="-158" y="109"/>
-</character>
