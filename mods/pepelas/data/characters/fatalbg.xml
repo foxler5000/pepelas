@@ -1,4 +1,4 @@
 <!DOCTYPE codename-engine-character>
-<character antialiasing="false" isPlayer="true" icon="fatalbg">
-	<anim name="idle" anim="idle" x="130" y="97"/>
+<character antialiasing="false" isPlayer="true">
+	<anim name="idle" anim="idle" x="-190" y="129"/>
 </character>

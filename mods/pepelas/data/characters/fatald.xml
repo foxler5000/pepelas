@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="cristal" scale="1.1" antialiasing="false">
-	<anim name="singDOWN" anim="down" x="-291" y="60"/>
-	<anim name="singRIGHT" anim="right" x="-291" y="60"/>
-	<anim name="singLEFT" anim="left" x="-291" y="60"/>
-	<anim name="singUP" anim="up" x="-291" y="60"/>
-	<anim name="idle" anim="idle" x="-291" y="60"/>
+<character sprite="cristal" scale="1.1" antialiasing="false" icon="fatal-d" color="#57C85E">
+	<anim name="singDOWN" anim="down" x="-30.09" y="98.19"/>
+	<anim name="singRIGHT" anim="right" x="-30.09" y="98.19"/>
+	<anim name="singLEFT" anim="left" x="-30.09" y="98.19"/>
+	<anim name="singUP" anim="up" x="-30.09" y="98.19"/>
+	<anim name="idle" anim="idle" x="-30.09" y="98.19"/>
 </character>

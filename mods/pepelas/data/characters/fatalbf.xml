@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="boifrend" antialiasing="false" icon="fatalbf">
-	<anim name="singDOWN" anim="down" x="-618" y="79"/>
-	<anim name="singRIGHT" anim="right" x="-618" y="79"/>
-	<anim name="singLEFT" anim="left" x="-618" y="79"/>
-	<anim name="singUP" anim="up" x="-618" y="79"/>
-	<anim name="idle" anim="idle" x="-618" y="79"/>
+<character sprite="boifrend" antialiasing="false" icon="bf" color="#000000">
+	<anim name="singDOWN" anim="down" x="-271" y="114"/>
+	<anim name="singRIGHT" anim="right" x="-271" y="114"/>
+	<anim name="singLEFT" anim="left" x="-271" y="114"/>
+	<anim name="singUP" anim="up" x="-271" y="114"/>
+	<anim name="idle" anim="idle" x="-271" y="114"/>
 </character>
